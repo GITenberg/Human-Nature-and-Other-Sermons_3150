@@ -1,0 +1,35 @@
+_repo: Human-Nature-and-Other-Sermons_3150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butler, Joseph
+    birthdate: 1692
+    deathdate: 1752
+    gutenberg_agent_id: '1116'
+    url: http://www.gutenberg.org/2009/agents/1116
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Butler
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2002-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English'
+- !lcc 'B'
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Ethics'
+- GITenberg
+title: Human Nature, and Other Sermons
+url: http://www.gutenberg.org/ebooks/3150
